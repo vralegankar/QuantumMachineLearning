@@ -35,10 +35,10 @@ This course outline on Quantum Machine Learning (QML) is structured into eight p
 - **Quantum Transfer Learning**: Pre‑trained quantum models fine‑tuned for new tasks.  
 
 ### Module 7: Hands‑On Implementations  
-- **Qiskit Machine Learning Tutorials**: Building and training QNNs and quantum kernel models citeturn0search1.  
-- **IBM Quantum Learning Paths**: Simulating and running circuits on real hardware citeturn0search16.  
-- **PennyLane Interactive Notebooks**: End‑to‑end QML workflows with hardware‑agnostic backend citeturn0search2.  
-- **Guided Projects on Coursera**: Short, practical QML projects via Coursera guided labs citeturn1search6.  
+- **Qiskit Machine Learning Tutorials**: Building and training QNNs and quantum kernel models.  
+- **IBM Quantum Learning Paths**: Simulating and running circuits on real hardware.  
+- **PennyLane Interactive Notebooks**: End‑to‑end QML workflows with hardware‑agnostic backend.  
+- **Guided Projects on Coursera**: Short, practical QML projects via Coursera guided labs.  
 
 ### Module 8: Research & Future Directions  
 - **Key Papers & Reviews**: “The Development of Quantum Machine Learning” (MIT Press) for current challenges and trends.
