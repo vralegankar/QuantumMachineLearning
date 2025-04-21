@@ -14,7 +14,7 @@ This course outline on Quantum Machine Learning (QML) is structured into eight p
 
 ### Module 2: Quantum Computation Principles  
 - **Quantum Gates & Circuits**: Pauli, Hadamard, CNOT gates, and circuit diagram notation.  
-- **Quantum Algorithms Overview**: Shor’s factoring and Grover’s search algorithms citeturn0search4.  
+- **Quantum Algorithms Overview**: Shor’s factoring and Grover’s search algorithms.  
 
 ### Module 3: Classical Machine Learning Recap  
 - **Supervised & Unsupervised Learning**: Regression, classification, clustering methods.  
